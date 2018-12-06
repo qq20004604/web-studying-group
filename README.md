@@ -21,6 +21,8 @@ https://github.com/Ping5841/randomness/blob/master/compute.js
 
 动画可视化：参考自：https://www.bilibili.com/video/av29645185?from=search&seid=6880977229769259119
 
+#### 群友的成果：
+
 零零水(20004604)
 
 * github地址：https://github.com/qq20004604/React-Dynamic-Visualization
@@ -40,3 +42,8 @@ Ekpe（QQ：2678433771）
 
 ## 第三期项目（12.10~）
 
+PRD见：https://github.com/qq20004604/web-studying-group/blob/master/%E7%AC%AC%E4%B8%89%E6%9C%9F%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.md
+
+#### 群友的成果：
+
+... todo

@@ -3,7 +3,9 @@
 
 学习讨论ＱＱ群：387017550
 
-第一期项目：
+---
+
+## 第一期项目：
 
 大数的加减乘除
 
@@ -13,9 +15,11 @@ https://github.com/1545320338/subject/blob/master/1.html
 似海（QQ：414894028）
 https://github.com/Ping5841/randomness/blob/master/compute.js
 
-第二期项目（11.2x~12.7）：
+---
 
-动画可视化：参考
+## 第二期项目（11.2x~12.7）：
+
+动画可视化：参考自：https://www.bilibili.com/video/av29645185?from=search&seid=6880977229769259119
 
 零零水(20004604)
 

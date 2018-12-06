@@ -35,3 +35,8 @@ Ekpe（QQ：2678433771）
 
 * github地址：https://github.com/Pieces312/JavaScript/blob/master/animate/animate.html
 * DEMO：https://pieces312.github.io/JavaScript/animate/animate.html
+
+---
+
+## 第三期项目（12.10~）
+

@@ -48,4 +48,7 @@ PRD见：https://github.com/qq20004604/web-studying-group/blob/master/%E7%AC%AC%
 
 #### 群友的成果：
 
-... todo
+暖阳（QQ：3343751336）
+
+* github：https://github.com/Pieces312/JavaScript/tree/master/vue-login
+* Demo：https://pieces312.github.io/JavaScript/vue-login/dist/index.html?#/

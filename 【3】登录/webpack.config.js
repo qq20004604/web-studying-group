@@ -39,11 +39,19 @@ const config = {
                     {
                         loader: 'css-loader',
                         options: {
-                            modules: true,
+                            modules: false,
                             minimize: true,
                             sourceMap: true
                         }
                     }
+                ]
+            },
+            {
+                test: /\.less$/,
+                use: [
+                    'style-loader',
+                    'css-loader',
+                    'less-loader'
                 ]
             }
         ]

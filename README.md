@@ -42,7 +42,7 @@ Ekpe（QQ：2678433771）
 
 ---
 
-## 第三期项目（12.10~）
+## 第三期项目（12.10~1.13）
 
 PRD见：https://github.com/qq20004604/web-studying-group/blob/master/%E7%AC%AC%E4%B8%89%E6%9C%9F%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.md
 
@@ -52,3 +52,10 @@ PRD见：https://github.com/qq20004604/web-studying-group/blob/master/%E7%AC%AC%
 
 * github：https://github.com/Pieces312/JavaScript/tree/master/vue-login
 * Demo：https://pieces312.github.io/JavaScript/vue-login/dist/index.html?#/
+
+
+## 第四期项目（1.14~...）
+
+项目说明：
+
+https://github.com/qq20004604/web-studying-group/tree/master/%E3%80%904%E3%80%91%E8%B4%AD%E7%89%A9%E8%BD%A6%E5%8A%9F%E8%83%BD
